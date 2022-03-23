@@ -1,0 +1,177 @@
+Base (Students: Seats : types - 3|1|2)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 2.08
+                             | average number of rank 1 and rank 2 seats filled: 2.71
+C-SB Ehlers et al            | average number of rank 1 seats filled: 2.03
+                             | average number of rank 1 and rank 2 seats filled: 2.67
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 2.08
+                             | average number of rank 1 and rank 2 seats filled: 2.3000000000000003
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 1.41
+                             | average number of rank 1 and rank 2 seats filled: 2.71
+Parameters for testing were: 
+Number of students: 6
+Number of seats/(type/rank): 2
+Number of types: 3
+Maximum rank: 2
+
+
+Low student-seat ratio 
+
+Scenario 1 (3/2/1)
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 0.67
+                             | average number of rank 1 and rank 2 seats filled: 0.97
+C-SB Ehlers et al            | average number of rank 1 seats filled: 0.67
+                             | average number of rank 1 and rank 2 seats filled: 0.97
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 0.67
+                             | average number of rank 1 and rank 2 seats filled: 0.9
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 0.52
+                             | average number of rank 1 and rank 2 seats filled: 0.97
+Parameters for testing were: 
+Number of students: 3
+Number of seats/(type/rank): 2
+Number of types: 1
+Maximum rank: 2
+
+
+
+Scenario 2 (3/2/2)
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 1.14
+                             | average number of rank 1 and rank 2 seats filled: 1.4
+C-SB Ehlers et al            | average number of rank 1 seats filled: 1.12
+                             | average number of rank 1 and rank 2 seats filled: 1.3800000000000001
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 1.14
+                             | average number of rank 1 and rank 2 seats filled: 1.3199999999999998
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 0.9
+                             | average number of rank 1 and rank 2 seats filled: 1.4
+Parameters for testing were: 
+Number of students: 3
+Number of seats/(type/rank): 2
+Number of types: 2
+Maximum rank: 2
+
+
+
+Scenario 3 (3/2/3)
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 1.26
+                             | average number of rank 1 and rank 2 seats filled: 1.4
+C-SB Ehlers et al            | average number of rank 1 seats filled: 1.22
+                             | average number of rank 1 and rank 2 seats filled: 1.39
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 1.26
+                             | average number of rank 1 and rank 2 seats filled: 1.4
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 0.93
+                             | average number of rank 1 and rank 2 seats filled: 1.4
+Parameters for testing were: 
+Number of students: 3
+Number of seats/(type/rank): 2
+Number of types: 3
+Maximum rank: 2
+
+
+Medium student-seat ratio  
+
+Scenario 4 (8/2/1)
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 1.0
+                             | average number of rank 1 and rank 2 seats filled: 1.78
+C-SB Ehlers et al            | average number of rank 1 seats filled: 1.0
+                             | average number of rank 1 and rank 2 seats filled: 1.78
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 1.0
+                             | average number of rank 1 and rank 2 seats filled: 1.52
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 0.82
+                             | average number of rank 1 and rank 2 seats filled: 1.7799999999999998
+
+
+Scenario 5 (8/2/3)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 2.29
+                             | average number of rank 1 and rank 2 seats filled: 3.46
+C-SB Ehlers et al            | average number of rank 1 seats filled: 2.27
+                             | average number of rank 1 and rank 2 seats filled: 3.39
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 2.29
+                             | average number of rank 1 and rank 2 seats filled: 2.62
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 1.74
+                             | average number of rank 1 and rank 2 seats filled: 3.46
+Parameters for testing were: 
+Number of students: 8
+Number of seats/(type/rank): 2
+Number of types: 3
+Maximum rank: 2
+
+Scenario 6 (8/2/5)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 3.35
+                             | average number of rank 1 and rank 2 seats filled: 3.94
+C-SB Ehlers et al            | average number of rank 1 seats filled: 3.28
+                             | average number of rank 1 and rank 2 seats filled: 3.92
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 3.35
+                             | average number of rank 1 and rank 2 seats filled: 3.5500000000000003
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 2.19
+                             | average number of rank 1 and rank 2 seats filled: 3.95
+Parameters for testing were: 
+Number of students: 8
+Number of seats/(type/rank): 2
+Number of types: 5
+Maximum rank: 2
+
+Scenario 7 (8/2/8)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 3.94
+                             | average number of rank 1 and rank 2 seats filled: 4.11
+C-SB Ehlers et al            | average number of rank 1 seats filled: 3.91
+                             | average number of rank 1 and rank 2 seats filled: 4.09
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 3.94
+                             | average number of rank 1 and rank 2 seats filled: 3.9699999999999998
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 2.33
+                             | average number of rank 1 and rank 2 seats filled: 4.11
+Parameters for testing were: 
+Number of students: 8
+Number of seats/(type/rank): 2
+Number of types: 8
+Maximum rank: 2
+
+
+High student-seat ratio 
+
+Scenario 8 (14/2/3)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 2.7
+                             | average number of rank 1 and rank 2 seats filled: 4.73
+C-SB Ehlers et al            | average number of rank 1 seats filled: 2.7
+                             | average number of rank 1 and rank 2 seats filled: 4.720000000000001
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 2.7
+                             | average number of rank 1 and rank 2 seats filled: 3.41
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 2.29
+                             | average number of rank 1 and rank 2 seats filled: 4.73
+Parameters for testing were: 
+Number of students: 14
+Number of seats/(type/rank): 2
+Number of types: 3
+Maximum rank: 2
+
+Scenario 9 (14/2/5)
+
+Results after 100 tests: 
+Algorithm 4                  | average number of rank 1 seats filled: 4.5
+                             | average number of rank 1 and rank 2 seats filled: 7.4
+C-SB Ehlers et al            | average number of rank 1 seats filled: 4.5
+                             | average number of rank 1 and rank 2 seats filled: 7.333333333333333
+Horizontal choice on 1 rank  | average number of rank 1 seats filled: 4.5
+                             | average number of rank 1 and rank 2 seats filled: 5.066666666666666
+Horizontal choice on 2 ranks | average number of rank 1 seats filled: 3.7
+                             | average number of rank 1 and rank 2 seats filled: 7.4
+Parameters for testing were: 
+Number of students: 14
+Number of seats/(type/rank): 2
+Number of types: 5
+Maximum rank: 2
+
+
+

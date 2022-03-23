@@ -1,0 +1,23 @@
+Write up algo 3 from the new paper for the case N=M (done)
+Test all 3 algorithms for K means criterion against the small datasets (DONE)
+
+
+
+Fix algo 3 use existing distances instead of incrementing delta by one each time 
+Write up some PRF check.
+
+
+TODO:
+
+DO MSE for 3-4 datasets and a few ks, and get MSD for each to make some graphics.
+
+Show some graphs by next week
+
+Find some examples where PRF is violated by other 2 algorithms.
+
+
+New TODO:
+
+Add new distance measures as per Barton's requests 
+Rerun all tests 
+Plot

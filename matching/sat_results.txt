@@ -1,0 +1,249 @@
+
+
+Cap 10%
+
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests 100
+enter number of students 200
+enter capacity 20
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 6.0
+                             | average number of rank 1 and rank 2 seats filled: 11.0
+                             | average rank of selected students relative to optimal: 1.4803809523809526| average relative best rank student 1.0| average relative worst rank student 2.012
+    EHYY                     | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 11.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.5038095238095242| average relative best rank student 1.0| average relative worst rank student 2.1500000000000004
+    SY1                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 6.52 | WC relative to AZ: 0.5454545454545454| rel avg 0.5927272727272727
+                             | average rank of selected students relative to optimal: 1.0850952380952383| average relative best rank student 1.0| average relative worst rank student 1.4304999999999999
+    SY2                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 11.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.4803809523809526| average relative best rank student 1.0| average relative worst rank student 2.012
+    POG                      | average number of rank 1 seats filled: 4.06            | WC relative to AZ: 0.0 | rel avg 0.6766666666666666 
+                             | average number of rank 1 and rank 2 seats filled: 4.779999999999999 | WC relative to AZ 0.0 | rel avg 0.4345454545454545 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 4.17            | WC relative to AZ: 0.0 | rel avg 0.695 
+                             | average number of rank 1 and rank 2 seats filled: 4.78 | WC relative to AZ 0.0 | rel avg 0.43454545454545457 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+cap 20%
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 6.0
+                             | average number of rank 1 and rank 2 seats filled: 11.0
+                             | average rank of selected students relative to optimal: 1.2901904761904763| average relative best rank student 1.0| average relative worst rank student 1.6940000000000008
+    EHYY                     | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 11.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.3123333333333331| average relative best rank student 1.0| average relative worst rank student 1.8215000000000006
+    SY1                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 7.04 | WC relative to AZ: 0.5454545454545454| rel avg 0.64
+                             | average rank of selected students relative to optimal: 1.0370476190476197| average relative best rank student 1.0| average relative worst rank student 1.224
+    SY2                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 11.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.2901904761904763| average relative best rank student 1.0| average relative worst rank student 1.6940000000000008
+    POG                      | average number of rank 1 seats filled: 4.8            | WC relative to AZ: 0.16666666666666666 | rel avg 0.7999999999999999 
+                             | average number of rank 1 and rank 2 seats filled: 6.04 | WC relative to AZ 0.09090909090909091 | rel avg 0.5490909090909091 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 4.93            | WC relative to AZ: 0.16666666666666666 | rel avg 0.8216666666666667 
+                             | average number of rank 1 and rank 2 seats filled: 6.08 | WC relative to AZ 0.09090909090909091 | rel avg 0.5527272727272727 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+    
+cap 30%
+
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 8.0
+                             | average number of rank 1 and rank 2 seats filled: 15.0
+                             | average rank of selected students relative to optimal: 1.1152258064516132| average relative best rank student 1.0| average relative worst rank student 1.340666666666667
+    EHYY                     | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 15.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.1267096774193552| average relative best rank student 1.0| average relative worst rank student 1.4453333333333336
+    SY1                      | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 10.61 | WC relative to AZ: 0.5333333333333333| rel avg 0.7073333333333333
+                             | average rank of selected students relative to optimal: 1.0053978494623654| average relative best rank student 1.0| average relative worst rank student 1.0536666666666665
+    SY2                      | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 15.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.1152258064516132| average relative best rank student 1.0| average relative worst rank student 1.340666666666667
+    POG                      | average number of rank 1 seats filled: 7.37            | WC relative to AZ: 0.5 | rel avg 0.92125 
+                             | average number of rank 1 and rank 2 seats filled: 10.120000000000001 | WC relative to AZ 0.26666666666666666 | rel avg 0.6746666666666667 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 7.57            | WC relative to AZ: 0.5 | rel avg 0.94625 
+                             | average number of rank 1 and rank 2 seats filled: 10.23 | WC relative to AZ 0.26666666666666666 | rel avg 0.682 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+cap 40%
+
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 12.0
+                             | average number of rank 1 and rank 2 seats filled: 22.0
+                             | average rank of selected students relative to optimal: 1.0997926829268294| average relative best rank student 1.0| average relative worst rank student 1.27575
+    EHYY                     | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 22.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.1137682926829264| average relative best rank student 1.0| average relative worst rank student 1.4140000000000001
+    SY1                      | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 16.35 | WC relative to AZ: 0.5454545454545454| rel avg 0.7431818181818183
+                             | average rank of selected students relative to optimal: 1.0021463414634149| average relative best rank student 1.0| average relative worst rank student 1.03275
+    SY2                      | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 22.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.0997926829268294| average relative best rank student 1.0| average relative worst rank student 1.27575
+    POG                      | average number of rank 1 seats filled: 11.46            | WC relative to AZ: 0.75 | rel avg 0.9550000000000001 
+                             | average number of rank 1 and rank 2 seats filled: 15.91 | WC relative to AZ 0.45454545454545453 | rel avg 0.7231818181818181 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 11.73            | WC relative to AZ: 0.8333333333333334 | rel avg 0.9775 
+                             | average number of rank 1 and rank 2 seats filled: 16.11 | WC relative to AZ 0.45454545454545453 | rel avg 0.7322727272727273 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+cap 50% 
+
+
+
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 14.0
+                             | average number of rank 1 and rank 2 seats filled: 26.0
+                             | average rank of selected students relative to optimal: 1.0415294117647054| average relative best rank student 1.0| average relative worst rank student 1.1336
+    EHYY                     | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 26.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.0512705882352942| average relative best rank student 1.0| average relative worst rank student 1.2622000000000002
+    SY1                      | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 21.87 | WC relative to AZ: 0.5384615384615384| rel avg 0.8411538461538461
+                             | average rank of selected students relative to optimal: 1.0000862745098038| average relative best rank student 1.0| average relative worst rank student 1.0012
+    SY2                      | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 26.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.0415294117647054| average relative best rank student 1.0| average relative worst rank student 1.1336
+    POG                      | average number of rank 1 seats filled: 13.83            | WC relative to AZ: 0.8571428571428571 | rel avg 0.9878571428571429 
+                             | average number of rank 1 and rank 2 seats filled: 21.4 | WC relative to AZ 0.46153846153846156 | rel avg 0.823076923076923 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 13.96            | WC relative to AZ: 0.8571428571428571 | rel avg 0.9971428571428572 
+                             | average number of rank 1 and rank 2 seats filled: 21.85 | WC relative to AZ 0.46153846153846156 | rel avg 0.8403846153846154 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+cap 60%
+
+
+
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 18.0
+                             | average number of rank 1 and rank 2 seats filled: 33.0
+                             | average rank of selected students relative to optimal: 1.0305628415300543| average relative best rank student 1.0| average relative worst rank student 1.1035000000000001
+    EHYY                     | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 33.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.0415081967213113| average relative best rank student 1.0| average relative worst rank student 1.2351666666666665
+    SY1                      | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 29.009999999999998 | WC relative to AZ: 0.6060606060606061| rel avg 0.879090909090909
+                             | average rank of selected students relative to optimal: 1.0000601092896175| average relative best rank student 1.0| average relative worst rank student 1.0018333333333334
+    SY2                      | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 33.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.0305628415300543| average relative best rank student 1.0| average relative worst rank student 1.1035000000000001
+    POG                      | average number of rank 1 seats filled: 17.87            | WC relative to AZ: 0.8888888888888888 | rel avg 0.9927777777777779 
+                             | average number of rank 1 and rank 2 seats filled: 28.19 | WC relative to AZ 0.6060606060606061 | rel avg 0.8542424242424242 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 17.99            | WC relative to AZ: 0.9444444444444444 | rel avg 0.9994444444444444 
+                             | average number of rank 1 and rank 2 seats filled: 29.009999999999998 | WC relative to AZ 0.6060606060606061 | rel avg 0.879090909090909 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+
+cap 70%
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 20.0
+                             | average number of rank 1 and rank 2 seats filled: 37.0
+                             | average rank of selected students relative to optimal: 1.0119114688128774| average relative best rank student 1.0| average relative worst rank student 1.0440000000000003
+    EHYY                     | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 37.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.0182816901408451| average relative best rank student 1.0| average relative worst rank student 1.1392857142857142
+    SY1                      | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 34.68 | WC relative to AZ: 0.6756756756756757| rel avg 0.9372972972972973
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    SY2                      | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 37.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.0119114688128774| average relative best rank student 1.0| average relative worst rank student 1.0440000000000003
+    POG                      | average number of rank 1 seats filled: 19.93            | WC relative to AZ: 0.9 | rel avg 0.9964999999999999 
+                             | average number of rank 1 and rank 2 seats filled: 33.65 | WC relative to AZ 0.6756756756756757 | rel avg 0.9094594594594594 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 34.68 | WC relative to AZ 0.6756756756756757 | rel avg 0.9372972972972973 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+cap 80%
+Uniform random (any key) or based on SAT data (s)?
+enter number of tests
+enter number of students
+enter capacity
+Running tests ... 
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 24.0
+                             | average number of rank 1 and rank 2 seats filled: 43.989999999999995
+                             | average rank of selected students relative to optimal: 1.009672839506173| average relative best rank student 1.0| average relative worst rank student 1.0333750000000004
+    EHYY                     | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 43.78 | WC relative to AZ: 0.9318181818181818 | rel avg 0.9952261877699479
+                             | average rank of selected students relative to optimal: 1.0142530864197532| average relative best rank student 1.0| average relative worst rank student 1.1236250000000003
+    SY1                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 42.019999999999996 | WC relative to AZ: 0.7272727272727273| rel avg 0.9552170947942714
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    SY2                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 43.989999999999995 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.009672839506173| average relative best rank student 1.0| average relative worst rank student 1.0333750000000004
+    POG                      | average number of rank 1 seats filled: 23.97            | WC relative to AZ: 0.9166666666666666 | rel avg 0.9987499999999999 
+                             | average number of rank 1 and rank 2 seats filled: 40.519999999999996 | WC relative to AZ 0.7272727272727273 | rel avg 0.9211184360081837 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 42.019999999999996 | WC relative to AZ 0.7272727272727273 | rel avg 0.9552170947942714 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+
+
+
+NEW --> i.e. using naive SY2
+
+cap 35
+    AZ                       | average number of rank 1 seats filled: 9.0
+                             | average number of rank 1 and rank 2 seats filled: 24.0
+                             | average rank of selected students relative to optimal: 1.3677301587301585| average relative best rank student 1.0| average relative worst rank student 1.560285714285714
+    EHYY                     | average number of rank 1 seats filled: 9.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 24.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average rank of selected students relative to optimal: 1.384888888888888| average relative best rank student 1.0| average relative worst rank student 1.7125714285714286
+    SY1                      | average number of rank 1 seats filled: 9.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 13.52 | WC relative to AZ: 0.375| rel avg 0.5633333333333334
+                             | average rank of selected students relative to optimal: 1.0044761904761905| average relative best rank student 1.0| average relative worst rank student 1.038
+    SY2                      | average number of rank 1 seats filled: 9.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 24.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average rank of selected students relative to optimal: 1.0044761904761905| average relative best rank student 1.0| average relative worst rank student 1.038
+    POG                      | average number of rank 1 seats filled: 8.46            | WC relative to AZ: 0.5555555555555556 | rel avg 0.9400000000000001 
+                             | average number of rank 1 and rank 2 seats filled: 13.170000000000002 | WC relative to AZ 0.25 | rel avg 0.5487500000000001 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0
+    POS                      | average number of rank 1 seats filled: 8.56            | WC relative to AZ: 0.5555555555555556 | rel avg 0.9511111111111111 
+                             | average number of rank 1 and rank 2 seats filled: 13.2 | WC relative to AZ 0.25 | rel avg 0.5499999999999999 
+                             | average rank of selected students relative to optimal: 1.0| average relative best rank student 1.0| average relative worst rank student 1.0

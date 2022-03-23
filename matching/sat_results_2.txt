@@ -1,0 +1,178 @@
+
+cap 10
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 2.0
+                             | average number of rank 1 and rank 2 seats filled: 4.0
+                             | average percentile rank of selected students: 92.971 | average percentile of worst rank of selected student: 82.43
+    EHYY                     | average number of rank 1 seats filled: 2.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 4.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average percentile rank of selected students: 92.931 | average percentile of worst rank of selected student: 82.05
+    SY1                      | average number of rank 1 seats filled: 2.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 2.57 | WC relative to AZ: 0.5| rel avg 0.6425
+                             | average percentile rank of selected students: 94.19800000000001 | average percentile of worst rank of selected student: 87.42
+    SY2                      | average number of rank 1 seats filled: 2.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 4.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 92.971 | average percentile of worst rank of selected student: 82.43
+    POG                      | average number of rank 1 seats filled: 1.47            | WC relative to AZ: 0.0 | rel avg 0.735 
+                             | average number of rank 1 and rank 2 seats filled: 2.07 | WC relative to AZ 0.0 | rel avg 0.5175 
+                             | average percentile rank of selected students: 94.5 | average percentile of worst rank of selected student: 90.0
+    POS                      | average number of rank 1 seats filled: 1.49            | WC relative to AZ: 0.0 | rel avg 0.745 
+                             | average number of rank 1 and rank 2 seats filled: 2.08 | WC relative to AZ 0.0 | rel avg 0.52 
+                             | average percentile rank of selected students: 94.5 | average percentile of worst rank of selected student: 90.0
+
+
+cap 20
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 6.0
+                             | average number of rank 1 and rank 2 seats filled: 13.0
+                             | average percentile rank of selected students: 83.91799999999999 | average percentile of worst rank of selected student: 62.09
+    EHYY                     | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 13.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average percentile rank of selected students: 83.7025 | average percentile of worst rank of selected student: 59.71
+    SY1                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 7.08 | WC relative to AZ: 0.46153846153846156| rel avg 0.5446153846153846
+                             | average percentile rank of selected students: 89.0865 | average percentile of worst rank of selected student: 75.46000000000001
+    SY2                      | average number of rank 1 seats filled: 6.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 13.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 83.91799999999999 | average percentile of worst rank of selected student: 62.09
+    POG                      | average number of rank 1 seats filled: 4.7            | WC relative to AZ: 0.3333333333333333 | rel avg 0.7833333333333333 
+                             | average number of rank 1 and rank 2 seats filled: 6.050000000000001 | WC relative to AZ 0.15384615384615385 | rel avg 0.46538461538461545 
+                             | average percentile rank of selected students: 89.5 | average percentile of worst rank of selected student: 80.0
+    POS                      | average number of rank 1 seats filled: 4.84            | WC relative to AZ: 0.3333333333333333 | rel avg 0.8066666666666666 
+                             | average number of rank 1 and rank 2 seats filled: 6.06 | WC relative to AZ 0.15384615384615385 | rel avg 0.46615384615384614 
+                             | average percentile rank of selected students: 89.5 | average percentile of worst rank of selected student: 80.0
+
+cap 30
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 8.0
+                             | average number of rank 1 and rank 2 seats filled: 18.0
+                             | average percentile rank of selected students: 80.35633333333334 | average percentile of worst rank of selected student: 53.92
+    EHYY                     | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 18.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average percentile rank of selected students: 80.23666666666666 | average percentile of worst rank of selected student: 51.82
+    SY1                      | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 10.89 | WC relative to AZ: 0.4444444444444444| rel avg 0.605
+                             | average percentile rank of selected students: 84.43133333333333 | average percentile of worst rank of selected student: 68.81
+    SY2                      | average number of rank 1 seats filled: 8.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 18.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 80.35633333333334 | average percentile of worst rank of selected student: 53.92
+    POG                      | average number of rank 1 seats filled: 7.5            | WC relative to AZ: 0.5 | rel avg 0.9375 
+                             | average number of rank 1 and rank 2 seats filled: 10.57 | WC relative to AZ 0.2222222222222222 | rel avg 0.5872222222222222 
+                             | average percentile rank of selected students: 84.5 | average percentile of worst rank of selected student: 70.0
+    POS                      | average number of rank 1 seats filled: 7.64            | WC relative to AZ: 0.5 | rel avg 0.955 
+                             | average number of rank 1 and rank 2 seats filled: 10.57 | WC relative to AZ 0.2222222222222222 | rel avg 0.5872222222222222 
+                             | average percentile rank of selected students: 84.5 | average percentile of worst rank of selected student: 70.0
+
+cap 40 
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 12.0
+                             | average number of rank 1 and rank 2 seats filled: 26.0
+                             | average percentile rank of selected students: 74.65875 | average percentile of worst rank of selected student: 43.05
+    EHYY                     | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 26.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average percentile rank of selected students: 74.4255 | average percentile of worst rank of selected student: 38.95
+    SY1                      | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 16.77 | WC relative to AZ: 0.46153846153846156| rel avg 0.645
+                             | average percentile rank of selected students: 79.44475 | average percentile of worst rank of selected student: 58.55
+    SY2                      | average number of rank 1 seats filled: 12.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 26.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 79.44475 | average percentile of worst rank of selected student: 58.55
+    POG                      | average number of rank 1 seats filled: 11.41            | WC relative to AZ: 0.75 | rel avg 0.9508333333333333 
+                             | average number of rank 1 and rank 2 seats filled: 16.43 | WC relative to AZ 0.34615384615384615 | rel avg 0.6319230769230769 
+                             | average percentile rank of selected students: 79.5 | average percentile of worst rank of selected student: 60.0
+    POS                      | average number of rank 1 seats filled: 11.6            | WC relative to AZ: 0.75 | rel avg 0.9666666666666667 
+                             | average number of rank 1 and rank 2 seats filled: 16.46 | WC relative to AZ 0.34615384615384615 | rel avg 0.6330769230769231 
+                             | average percentile rank of selected students: 79.5 | average percentile of worst rank of selected student: 60.0
+
+cap 50
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 14.0
+                             | average number of rank 1 and rank 2 seats filled: 31.0
+                             | average percentile rank of selected students: 70.95100000000001 | average percentile of worst rank of selected student: 35.370000000000005
+    EHYY                     | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 31.0 | WC relative to AZ: 1 | rel avg 1.0
+                             | average percentile rank of selected students: 70.76440000000002 | average percentile of worst rank of selected student: 31.33
+    SY1                      | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 22.03 | WC relative to AZ: 0.45161290322580644| rel avg 0.7106451612903226
+                             | average percentile rank of selected students: 74.49680000000001 | average percentile of worst rank of selected student: 49.9
+    SY2                      | average number of rank 1 seats filled: 14.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 31.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 74.49680000000001 | average percentile of worst rank of selected student: 49.9
+    POG                      | average number of rank 1 seats filled: 13.84            | WC relative to AZ: 0.8571428571428571 | rel avg 0.9885714285714285 
+                             | average number of rank 1 and rank 2 seats filled: 21.869999999999997 | WC relative to AZ 0.41935483870967744 | rel avg 0.7054838709677419 
+                             | average percentile rank of selected students: 74.5 | average percentile of worst rank of selected student: 50.0
+    POS                      | average number of rank 1 seats filled: 13.95            | WC relative to AZ: 0.8571428571428571 | rel avg 0.9964285714285713 
+                             | average number of rank 1 and rank 2 seats filled: 22.009999999999998 | WC relative to AZ 0.41935483870967744 | rel avg 0.71 
+                             | average percentile rank of selected students: 74.5 | average percentile of worst rank of selected student: 50.0
+
+cap 60
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 18.0
+                             | average number of rank 1 and rank 2 seats filled: 39.0
+                             | average percentile rank of selected students: 65.21650000000002 | average percentile of worst rank of selected student: 24.939999999999998
+    EHYY                     | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 38.97 | WC relative to AZ: 0.9487179487179487 | rel avg 0.9992307692307693
+                             | average percentile rank of selected students: 65.03299999999999 | average percentile of worst rank of selected student: 19.769999999999996
+    SY1                      | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 28.42 | WC relative to AZ: 0.46153846153846156| rel avg 0.7287179487179488
+                             | average percentile rank of selected students: 69.49433333333333 | average percentile of worst rank of selected student: 39.78
+    SY2                      | average number of rank 1 seats filled: 18.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 39.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 69.49433333333333 | average percentile of worst rank of selected student: 39.78
+    POG                      | average number of rank 1 seats filled: 17.69            | WC relative to AZ: 0.8333333333333334 | rel avg 0.9827777777777779 
+                             | average number of rank 1 and rank 2 seats filled: 28.310000000000002 | WC relative to AZ 0.41025641025641024 | rel avg 0.7258974358974359 
+                             | average percentile rank of selected students: 69.5 | average percentile of worst rank of selected student: 40.0
+    POS                      | average number of rank 1 seats filled: 17.93            | WC relative to AZ: 0.8888888888888888 | rel avg 0.9961111111111111 
+                             | average number of rank 1 and rank 2 seats filled: 28.369999999999997 | WC relative to AZ 0.41025641025641024 | rel avg 0.7274358974358973 
+                             | average percentile rank of selected students: 69.5 | average percentile of worst rank of selected student: 40.0
+
+
+cap 70 
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 20.0
+                             | average number of rank 1 and rank 2 seats filled: 44.0
+                             | average percentile rank of selected students: 62.10185714285715 | average percentile of worst rank of selected student: 18.989999999999995
+    EHYY                     | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 43.989999999999995 | WC relative to AZ: 0.9772727272727273 | rel avg 0.9997727272727271
+                             | average percentile rank of selected students: 61.94871428571428 | average percentile of worst rank of selected student: 14.959999999999994
+    SY1                      | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 36.239999999999995 | WC relative to AZ: 0.5227272727272727| rel avg 0.8236363636363635
+                             | average percentile rank of selected students: 64.49828571428571 | average percentile of worst rank of selected student: 29.879999999999995
+    SY2                      | average number of rank 1 seats filled: 20.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 44.0 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 64.49828571428571 | average percentile of worst rank of selected student: 29.879999999999995
+    POG                      | average number of rank 1 seats filled: 19.95            | WC relative to AZ: 0.9 | rel avg 0.9974999999999999 
+                             | average number of rank 1 and rank 2 seats filled: 35.97 | WC relative to AZ 0.5227272727272727 | rel avg 0.8175 
+                             | average percentile rank of selected students: 64.5 | average percentile of worst rank of selected student: 30.0
+    POS                      | average number of rank 1 seats filled: 19.99            | WC relative to AZ: 0.95 | rel avg 0.9994999999999999 
+                             | average number of rank 1 and rank 2 seats filled: 36.239999999999995 | WC relative to AZ 0.5227272727272727 | rel avg 0.8236363636363635 
+                             | average percentile rank of selected students: 64.5 | average percentile of worst rank of selected student: 30.0
+
+cap 80 
+
+Results after 100 tests: 
+    AZ                       | average number of rank 1 seats filled: 24.0
+                             | average number of rank 1 and rank 2 seats filled: 51.97
+                             | average percentile rank of selected students: 57.12212499999999 | average percentile of worst rank of selected student: 10.670000000000002
+    EHYY                     | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0
+                             | average number of rank 1 and rank 2 seats filled: 51.480000000000004 | WC relative to AZ: 0.9423076923076923 | rel avg 0.990571483548201
+                             | average percentile rank of selected students: 57.176 | average percentile of worst rank of selected student: 5.790000000000006
+    SY1                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 44.31 | WC relative to AZ: 0.6346153846153846| rel avg 0.8526072734269772
+                             | average percentile rank of selected students: 59.5 | average percentile of worst rank of selected student: 20.0
+    SY2                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 51.97 | WC relative to AZ 1 | rel avg 1.0 
+                             | average percentile rank of selected students: 59.5 | average percentile of worst rank of selected student: 20.0
+    POG                      | average number of rank 1 seats filled: 23.97            | WC relative to AZ: 0.9166666666666666 | rel avg 0.9987499999999999 
+                             | average number of rank 1 and rank 2 seats filled: 43.65 | WC relative to AZ 0.6346153846153846 | rel avg 0.839907639022513 
+                             | average percentile rank of selected students: 59.5 | average percentile of worst rank of selected student: 20.0
+    POS                      | average number of rank 1 seats filled: 24.0            | WC relative to AZ: 1 | rel avg 1.0 
+                             | average number of rank 1 and rank 2 seats filled: 44.31 | WC relative to AZ 0.6346153846153846 | rel avg 0.8526072734269772 
+                             | average percentile rank of selected students: 59.5 | average percentile of worst rank of selected student: 20.0
